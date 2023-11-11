@@ -86,7 +86,7 @@ Contributions are licensed under the [MIT License](LICENSE). Ensure you understa
 
 ### Reporting Bugs
 
-Report bugs and issues on our [issues page](ADD LINK TO ISSUES PAGE).
+Report bugs and issues on the Discrord: https://discord.gg/GdsmyUX69N
 
 **Effective bug reports should include:**
 
